@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/flat.cpp
+iomanip
+-
+stdexcept
+-
+flat.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/flat.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/flat.h
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+string
+-
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/tube.cpp
+stdexcept
+-
+iomanip
+-
+tube.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/tube.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/tube.h
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+

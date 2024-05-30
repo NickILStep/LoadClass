@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/carton.h
+iostream
+-
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/flat.h
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/load.h
+vector
+-
+string
+-
+fstream
+-
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/main.cpp
+iostream
+-
+stdexcept
+-
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+carton.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/carton.h
+flat.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/flat.h
+tube.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/tube.h
+load.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/load.h
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+string
+-
+
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/tube.h
+shipping_item.h
+C:/Users/nicki/OneDrive/Documents/College/Classes/2021 Spring Semester/CS 1410 - Object Oriented Programming/Final/load_class/src/shipping_item.h
+
